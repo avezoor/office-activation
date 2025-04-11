@@ -6,7 +6,7 @@ echo   / _\ / )( \(  __)(__  )/  \  /  \(  _ \
 echo  /    \\ \/ / ) _)  / _/(  O )(  O ))   /
 echo  \_/\_/ \__/ (____)(____)\__/  \__/(__\_)
 echo.
-echo  OFFICE ACTIVATION 
+echo  OFFICE ACTIVATION  
 echo  Dev By Izzar Suly Nashrudin
 pause
 
